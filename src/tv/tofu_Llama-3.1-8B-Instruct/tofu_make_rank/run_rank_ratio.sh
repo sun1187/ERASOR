@@ -1,0 +1,6 @@
+CUDA_VISIBLE_DEVICES=0 python v_forget.py
+CUDA_VISIBLE_DEVICES=0 python v_retain.py
+
+CUDA_VISIBLE_DEVICES=0 python erasor_ratio90_forget01.py
+CUDA_VISIBLE_DEVICES=0 python erasor_ratio90_forget05.py
+CUDA_VISIBLE_DEVICES=0 python erasor_ratio90_forget10.py

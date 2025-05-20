@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 python erasor_ratio90_forget05.py
+CUDA_VISIBLE_DEVICES=0 python ethos_rank_003_forget05.py
